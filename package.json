@@ -17,7 +17,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "webpack": "webpack",
-    "webpack-help": "webpack --help",
     "webpack-dev-server": "webpack-dev-server",
     "dev": "npm run webpack-dev-server -- --node-env development",
     "prod": "npm run webpack -- --node-env production"
